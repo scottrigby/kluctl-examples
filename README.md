@@ -1,4 +1,4 @@
-# kluctl-examples
+# kluctl-examples 🙄
 
 <img alt="kluctl" src="https://raw.githubusercontent.com/kluctl/kluctl/main/logo/kluctl.svg" width="200"/>
 
